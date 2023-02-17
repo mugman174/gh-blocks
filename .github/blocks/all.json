@@ -4,5 +4,8 @@
   },
   "drawing.js": {
     "default": "githubnext__blocks-examples__processing"
+  },
+  "examplecode.py": {
+    "default": "githubnext__emoji-block__file-block"
   }
 }
