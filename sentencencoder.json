@@ -1,0 +1,11 @@
+{
+  "queries": [
+    "What is this?",
+    "Generate a password"
+    ],
+  "responses": [
+    "https://github.com/githubnext/blocks-examples/blob/main/blocks/file-blocks/sentence-encoder.tsx",
+    "password123",
+    "qwerty"
+  ]
+}
