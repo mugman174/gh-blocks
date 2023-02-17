@@ -17,3 +17,6 @@ block={{"type":"file","id":"html","title":"HTML","description":"View basic HTML 
 context={{"repo":"gh-blocks","owner":"mugman174","path":"index.html","sha":"master","file":"README.md"}}
 height={202}
 />
+
+## JavaScript
+<BlockComponent block={{"type":"file","id":"sandbox","title":"JS Sandbox","description":"Run JavaScript code in a sandbox","entry":"blocks/file-blocks/sandbox/index.tsx","matches":[".js",".ts",".tsx",".jsx"],"example_path":"https://github.com/githubnext/blocks-tutorial/blob/main/README.md","owner":"githubnext","repo":"blocks-examples"}} context={{"repo":"gh-blocks","owner":"mugman174","path":"embedcode.js","sha":"main","file":"README.md"}} />
