@@ -1,5 +1,8 @@
 {
   "sentencencoder.json": {
     "default": "githubnext__blocks-examples__sentence-encoder"
+  },
+  "drawing.js": {
+    "default": "githubnext__blocks-examples__processing"
   }
 }
