@@ -1,4 +1,3 @@
-/* https://github.com/Kyza/color-regex/blob/master/full.pom */
 let x = [ascii_xdigit];
 
 let decimal_end = ("." ["0"-"9"]+);
